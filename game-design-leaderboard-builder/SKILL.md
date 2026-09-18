@@ -389,3 +389,14 @@ If the user provides almost nothing, ask all eight questions in a single clean l
 ## Working principle
 
 The goal is not to produce the most sophisticated leaderboard. It is to produce the right leaderboard for this game, this player base, and this team — one that generates maximum goal density within the confirmed constraints, and that a designer can hand directly to an engineer as a specification.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

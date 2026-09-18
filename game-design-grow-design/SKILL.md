@@ -238,3 +238,14 @@ Use this framework to prevent two common failure modes:
 2. cycling between ideas without committing to a decision path
 
 The intent is not bureaucracy for its own sake. The intent is structured design judgment that helps uncertain teams move forward.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

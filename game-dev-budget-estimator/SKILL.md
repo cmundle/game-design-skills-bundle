@@ -166,3 +166,14 @@ Use this compressed flow when the user wants a quick answer:
 ## Working principle
 
 A useful early budget estimate is not a perfect total. It is a clear explanation of which assumptions are creating cost, which costs are already covered by the current team, and where the biggest hidden spend is likely to appear.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

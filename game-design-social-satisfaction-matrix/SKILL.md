@@ -238,3 +238,14 @@ Use this quick pass when speed matters:
 
 A socially sticky game is not built by piling on social features.
 It is built by understanding which social elements are foundational, which are dangerous but powerful, which are delightful extras, and which are mostly noise.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

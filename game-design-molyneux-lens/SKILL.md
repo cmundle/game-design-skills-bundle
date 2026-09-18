@@ -177,3 +177,14 @@ Common patterns to watch for:
 The goal is not to be right. The goal is to make a better design harder to ignore.
 
 Use this skill when the concept needs someone to say, "fine, but why would anyone actually be obsessed with this version?"
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

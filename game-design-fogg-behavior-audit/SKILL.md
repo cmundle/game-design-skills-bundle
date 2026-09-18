@@ -122,3 +122,14 @@ Use this compressed flow when the user wants a quick answer:
 ## Working principle
 
 A feature does not succeed just because it exists, is visible, or is theoretically valuable. It succeeds when the player has enough reason to act, enough ability to act, and a prompt that lands at the right moment.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

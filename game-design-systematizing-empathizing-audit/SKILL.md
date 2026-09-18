@@ -169,3 +169,14 @@ End with a practical recommendation such as:
 
 A design does not appeal to everyone in the same way.
 This skill exists to clarify what kind of player the design is really speaking to, and what structural-emotional tradeoffs come with that choice.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

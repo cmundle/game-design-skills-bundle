@@ -184,3 +184,14 @@ Common patterns to watch for:
 Players stay absorbed when the game keeps saying, "you can stretch a bit further."
 
 Use this skill when a design feels off in motion: too flat, too spiky, too tiring, or just mysteriously less compelling than it should be.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

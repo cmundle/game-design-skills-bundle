@@ -128,3 +128,14 @@ Use this compressed flow when the user wants a quick answer:
 ## Working principle
 
 A difficult project person is not just a personality puzzle. They are a recurring behavior pattern interacting with incentives, power, habits, and team structure. The useful question is not "what is wrong with them?" but "which named archetype or combination of archetypes best matches the recurring behavior, what damage is it causing, and what is the smartest safe response?"
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

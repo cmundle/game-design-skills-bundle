@@ -180,3 +180,14 @@ Common patterns to watch for:
 A design is not just a set of mechanics. It is an answer to the question, "what do I get to become while playing this?"
 
 Use this skill to make that answer explicit and test whether the game earns it.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

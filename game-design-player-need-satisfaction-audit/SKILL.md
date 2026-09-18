@@ -369,3 +369,14 @@ Common patterns to watch for:
 A successful game does not merely retain players. It repeatedly satisfies core psychological needs.
 
 Use this skill when a design is performing mechanically but you need to understand whether it is emotionally nourishing or quietly depleting.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

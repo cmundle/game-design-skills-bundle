@@ -242,3 +242,14 @@ If the user provides a quick description and wants a rapid read:
 ## Working principle
 
 A leaderboard that only matters to the top ten players is a monument, not a feature. The audit's job is to find how many players the design is failing — and why.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

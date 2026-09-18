@@ -151,3 +151,14 @@ Use this compressed flow when the user wants a quick answer:
 ## Working principle
 
 Players do not experience randomness as raw probability tables. They experience it as felt fairness, perceived intent, streak memory, and the degree to which their choices still seem to matter.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

@@ -186,3 +186,14 @@ Read these when useful:
 If a team cannot explain the game on one page, the design is probably not clear enough yet.
 
 Use this skill to produce a one-pager people can actually read, discuss, and pass around.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

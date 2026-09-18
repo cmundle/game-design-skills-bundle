@@ -262,3 +262,14 @@ When useful, combine this skill with a more explicit decision framework such as 
 
 Do not ask only, "How do we build this?"
 Ask first, "What do we not yet understand well enough to build responsibly?"
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

@@ -207,3 +207,14 @@ Common patterns to watch for:
 Failure should create a better next attempt, not just a worse mood.
 
 Use this skill to test whether the design turns defeat into momentum or just burns player trust and energy.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

@@ -198,3 +198,14 @@ Common patterns to watch for:
 A fair game can still frustrate. The key question is whether the frustration points toward mastery or away from the game.
 
 Use this skill when players are not just struggling, but suspecting the design itself.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

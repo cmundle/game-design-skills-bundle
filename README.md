@@ -907,3 +907,38 @@ If you are not sure where to begin:
 - suspect the KPI framing is undervaluing connective tissue or QoL work -> `game-design-kpi-coverage-audit`
 - unclear whether a prototype is for selling or learning -> `game-design-prototype-intent-audit`
 - worried different player cohorts will read the same feature differently -> `game-design-player-segment-perception-audit`
+
+## Licence
+
+These skills are published under the
+[PolyForm Noncommercial License 1.0.0](./LICENSE).
+
+Free to use, modify, fork and share for:
+
+- personal projects, hobby games and self-directed learning
+- students, teachers and educational institutions
+- charities, public research organisations and government bodies
+
+A commercial licence is required for:
+
+- use inside a company developing, publishing or operating a game
+- consulting, contracting or agency work delivered to clients
+- paid training, workshops or courses
+- redistributing or reselling these skills, including repackaging them for an
+  agent-skill marketplace
+
+Commercial licences are sold as skill packs. See
+[COMMERCIAL-LICENSE.md](./COMMERCIAL-LICENSE.md).
+
+This is a source-available licence, not an OSI-approved open source one. The
+Open Source Definition does not allow a restriction on field of use, so
+noncommercial licences fall outside it. If you assumed MIT-style terms because
+the repository is public, they do not apply here.
+
+If you copy a skill folder out of this repository on its own, the licence line
+at the bottom of its `SKILL.md` and the Required Notice in `LICENSE` need to
+travel with it.
+
+The frameworks these skills draw on belong to their authors and are credited in
+[CREDITS.md](./CREDITS.md). The licence covers the skill instructions and
+wording here, not the theory underneath.

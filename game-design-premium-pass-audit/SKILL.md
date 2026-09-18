@@ -321,3 +321,14 @@ Produce a condensed audit covering value, velocity, and the two or three most si
 ## Working principle
 
 A premium pass that players resent completing is worse than no pass at all. The audit's job is to find where the design is relying on obligation instead of desire — and to name it clearly enough that the team can fix it before it ships.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

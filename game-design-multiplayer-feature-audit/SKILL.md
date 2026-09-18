@@ -275,3 +275,14 @@ Read these when useful:
 
 Strong multiplayer design does not merely place players near each other.
 It creates meaningful comparison, contribution, coordination, recognition, or belonging at a coordination cost the audience is actually willing to pay.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

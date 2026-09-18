@@ -112,3 +112,14 @@ If multiple goals are provided, audit each in sequence, then add a **Patterns Ac
 - If a goal is genuinely well-written, say so briefly and move on. Don't pad weak praise.
 - If the user provides context (game genre, player segment, live vs. pre-launch) — use it. Goals that are vague in isolation might be appropriate for the stage.
 - If a goal is really a vision statement or principle, flag it gently: "This reads more like a design pillar than a goal — here's how to turn it into one."
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

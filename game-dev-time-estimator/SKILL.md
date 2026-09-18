@@ -179,3 +179,14 @@ Use this compressed flow when the user wants a quick answer:
 ## Working principle
 
 A useful early time estimate is not a fake launch date. It is a clear explanation of which assumptions are creating schedule risk, what the team can actually do in parallel, and where the biggest hidden delays are likely to appear.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

@@ -172,3 +172,14 @@ If it succeeds, present both the HTML and PNG files to the user.
 If the user wants changes (swap an image, shift the palette, try a different harmony),
 edit the JSON and rerun `build_html_moodboard.py` rather than hand-editing the HTML —
 keeps the source of truth consistent if they ask for another round after that.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

@@ -231,3 +231,14 @@ Read these when useful:
 
 Designing sessions means modeling the player's time both with the game and away from it.
 A strong game helps the player find a meaningful goal now, achieve enough to feel satisfied, and leave with a reason to come back.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

@@ -253,3 +253,14 @@ Common patterns to watch for:
 A strong design does not just ask the player to think. It asks them to think in the right way, at the right time, with the right support.
 
 Use this skill to identify whether the proposal's cognitive demands are elegant, mismatched, exhausting, or fake-deep.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

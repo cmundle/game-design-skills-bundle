@@ -357,3 +357,14 @@ Examples in game design terms:
 ## Working principle
 
 A design is not strong merely because it gets players to act. It is strong when it motivates action in a way that is healthy, satisfying, and sustainable for the intended audience.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+

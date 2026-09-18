@@ -171,3 +171,14 @@ Common patterns to watch for:
 Mechanics reveal priorities even when the team does not.
 
 Use this skill to extract the principles the design is actually living by, then decide whether those principles are worth keeping.
+
+---
+
+<!-- license-footer -->
+Part of the Game Design Skills Bundle by Stanislav Stankovic.
+Licensed under PolyForm Noncommercial 1.0.0 — free for personal, academic and
+nonprofit use. Commercial use requires a licence, sold as skill packs. See
+<https://github.com/Stanestane/game-design-skills-bundle> for terms.
+
+Required Notice: Copyright Stanislav Stankovic (https://www.stane-island.net/)
+
