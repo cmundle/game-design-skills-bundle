@@ -101,6 +101,11 @@ Audit perceived fairness and retry-worthiness by combining attribution, flow, an
 ### game-design-failure-loop-audit
 Audit what happens after failure: what players lose, what they learn, how fast they retry, and whether the loop creates momentum or resignation.
 
+## RPG system design
+
+### open-rpg-system-designer
+Design original tabletop or digital RPG systems, character classes, and focused subsystems. It can work from an original brief or selectively adapt documented SRD 5.1 or 5.2.1 mechanical patterns, while keeping provenance, attribution, and excluded D&D identity material separate. Best for core rules engines, combat, magic, progression, class design, and design-ready system documentation.
+
 ## Fantasy / audience / structure extractors
 
 ### game-design-fantasy-extractor
