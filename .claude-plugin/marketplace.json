@@ -1,0 +1,14 @@
+{
+  "name": "game-design-skills-local",
+  "description": "Private, noncommercial game design skills",
+  "owner": {
+    "name": "Christopher Mundle"
+  },
+  "plugins": [
+    {
+      "name": "game-design-skills",
+      "source": "./",
+      "description": "Game design workflows and audits for concepts, player experience, prototyping, production planning, and critique"
+    }
+  ]
+}

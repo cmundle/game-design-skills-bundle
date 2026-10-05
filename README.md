@@ -1,6 +1,7 @@
 # Game Design Skills Bundle
 
-A curated bundle of reusable game design skills for OpenClaw / ClawHub-style agent workflows.
+A curated bundle of reusable game design skills packaged for ChatGPT/Codex,
+Claude Code, and other Agent Skills-compatible tools.
 
 This repository collects a set of practical design skills covering:
 - emotional direction
@@ -11,9 +12,9 @@ This repository collects a set of practical design skills covering:
 - FTUE analysis
 - pitch deck review
 
-These skills are designed to be used either:
-- as installed skill folders in an OpenClaw workspace, or
-- as packaged `.skill` files from the `package-skills/` folder.
+The repository is an installable plugin and local marketplace. Individual
+skills can also be installed from `skills/`, or from the prebuilt `.skill`
+archives in `package-skills/`.
 
 They also now include `emotional-canvas-moodboard`, a follow-on moodboard skill that turns emotional direction into curated visual boards with candidate-pool gathering, hard rejection, palette-reference support, and clean or annotated JPG/HTML outputs.
 
@@ -23,9 +24,44 @@ This repo now also includes a newer extractor/audit pack focused on fantasy, per
 
 ## Repository structure
 
-- `game-design-*/` - individual game-design skill folders
+- `plugin.json` - portable Agent Plugins manifest
+- `skills/` - individual skill folders
+- `.agents/plugins/marketplace.json` - ChatGPT/Codex local marketplace
+- `.claude-plugin/` - Claude Code manifest and local marketplace
 - `package-skills/` - packaged distributable `.skill` files
 - `game-design-skill-catalog.md` - compact local catalog/index
+
+## Install
+
+### ChatGPT and Codex
+
+Add this checkout as a marketplace:
+
+```sh
+codex plugin marketplace add /absolute/path/to/game-design-skills-bundle
+```
+
+Then install **Game Design Skills** from the Plugin Directory.
+
+### Claude Code
+
+Add the marketplace and install the plugin:
+
+```sh
+claude plugin marketplace add /absolute/path/to/game-design-skills-bundle
+claude plugin install game-design-skills@game-design-skills-local
+```
+
+For one-off testing without installing:
+
+```sh
+claude --plugin-dir /absolute/path/to/game-design-skills-bundle
+```
+
+### Other agents
+
+Use `plugin.json` when the agent supports Agent Plugins, or copy the desired
+folders from `skills/` into that agent's skills directory.
 
 ## Skills
 
@@ -865,13 +901,11 @@ Use these when you want to test skill boundaries quickly.
 - **Budget:** What will this likely cost?
 - **Time:** How long will this likely take?
 
-## How to use
+## Other installation formats
 
-### In OpenClaw
-Place the skill folders in your workspace `skills/` directory.
-
-### As packaged files
-Use the `.skill` archives from `package-skills/` for sharing or installation.
+- OpenClaw: place the folders from `skills/` in the workspace `skills/`
+  directory.
+- Packaged skills: use the `.skill` archives from `package-skills/`.
 
 ## Notes
 

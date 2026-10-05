@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "game-design-skills",
+  "version": "1.0.0",
+  "description": "Game design workflows and audits for concepts, player experience, prototyping, production planning, and critique.",
+  "author": {
+    "name": "Stanislav Stankovic",
+    "url": "https://www.stane-island.net/"
+  },
+  "homepage": "https://github.com/Stanestane/game-design-skills-bundle",
+  "repository": "https://github.com/Stanestane/game-design-skills-bundle",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "keywords": ["game-design", "game-development", "prototyping", "player-experience"]
+}
